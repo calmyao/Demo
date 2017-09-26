@@ -1,0 +1,11 @@
+（1）ApacheApache是世界使用排名第一的Web服务器软件。它可以运行在几乎所有广泛使用的计算机平台上。Apache源于NCSAhttpd服务器，经过多次修改，成为世界上最流行的Web服务器软件之一。Apache取自"a patchy server"的读音，意思是充满补丁的服务器，因为它是自由软件，所以不断有人来为它开发新的功能、新的特性、修改原来的缺陷。Apache的特点是简单、速度快、性能稳定，并可做代理服务器来使用。
+（2）IIS是英文Internet Information Server的缩写，译成中文就是"Internet信息服务"的意思。它是微软公司主推的服务器，最新的版本是Windows2008里面包含的IIS 7，IIS与Window Server完全集成在一起，因而用户能够利用Windows Server和NTFS（NT File System，NT的文件系统）内置的安全特性，建立强大，灵活而安全的Internet和Intranet站点。
+（3）GFEGoogle的web服务器，用户数量激增。目前紧逼iis。
+（4）Nginx不仅是一个小巧且高效的HTTP服务器，也可以做一个高效的负载均衡反向代理，通过它接受用户的请求并分发到多个Mongrel进程可以极大提高Rails应用的并发能力。
+（5）Lighttpd是由德国人 Jan Kneschke 领导开发的，基于BSD许可的开源WEB服务器软件，其根本的目的是提供一个专门针对高性能网站，安全、快速、兼容性好并且灵活的web server环境。具有非常低的内存开销，CPU占用率低，效能好，以及丰富的模块等特点。Lighttpd 是众多OpenSource轻量级的web server中较为优秀的一个。支持FastCGI, CGI, Auth, 输出压缩(output compress), URL重写, Alias等重要功能。
+（6）Zeus是一个运行于Unix下的非常优秀的Web Server，据说性能超过Apache，是效率最高的Web Server之一。
+（7）Sun的Java系统Web服务器也就是以前的Sun ONE Web Server。主要出现在那些运行Sun的Solaris操作系统的关键任务级Web服务器上。它最新的版本号是6.1,可以支持x86版本Solaris，Red Hat Linux，HP-UX 11i， IBM AIX，甚至可以支持Windows，但它的大多数用户都选择了SPARC版本的Solaris操作系统
+（8）Resin提供了最快的jsp/servlets运行平台。在java和javascript的支持下，Resin可以为任务灵活选用合适的开发语言。Resin的一种先进的语言XSL(XML stylesheet language)可以使得形式和内容相分离。
+（9）Jetty是一个开源的servlet容器，它为基于Java的web内容，例如JSP和servlet提供运行环境。Jetty是使用Java语言编写的，它的API以一组JAR包的形式发布。开发人员可以将Jetty容器实例化成一个对象，可以迅速为一些独立运行（stand-alone）的Java应用提供网络和web连接。
+（10）BEA WebLogic是用于开发、集成、部署和管理大型分布式Web应用、网络应用和数据库应用的Java应用服务器。将Java的动态功能和Java Enterprise标准的安全性引入大型网络应用的开发、集成、部署和管理之中。 BEA WebLogic Server拥有处理关键Web应用系统问题所需的性能、可扩展性和高可用性。
+（11）Tomcat是Apache 软件基金会（Apache Software Foundation）的Jakarta 项目中的一个核心项目，由Apache、Sun 和其他一些公司及个人共同开发而成。由于有了Sun 的参与和支持，最新的Servlet 和JSP 规范总是能在Tomcat 中得到体现。因为Tomcat 技术先进、性能稳定，而且免费，因而深受Java 爱好者的喜爱并得到了部分软件开发商的认可，成为目前比较流行的Web 应用服务器。
